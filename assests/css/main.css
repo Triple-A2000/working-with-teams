@@ -8,3 +8,9 @@
     width: min(100% - 30px, 1080px);
     margin-inline: auto;
 }
+
+button {
+    padding: 18px 16px;
+    color: #fff;
+    background-color: #09521e;
+}
